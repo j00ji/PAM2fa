@@ -1,0 +1,7 @@
+[telegram]
+botkey = <botkey>
+base_url = <url>
+
+[settings]
+port = 8080
+usergroup = 2fa
